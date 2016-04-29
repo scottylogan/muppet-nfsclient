@@ -1,0 +1,16 @@
+{
+  "name": "muppet-nfsclient",
+  "version": "0.1.0",
+  "author": "Scotty Logan <scotty@catbert.net>",
+  "summary": "muppet nfs client configuration",
+  "license": "MIT",
+  "source": "https://github.com/scottylogan/muppet-nfsclient.git",
+  "project_page": "https://github.com/scottylogan/muppet-nfsclient",
+  "issues_url": "https://github.com/scottylogan/muppet-nfsclient/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
