@@ -1,6 +1,6 @@
 {
   "name": "muppet-nfsclient",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Scotty Logan <scotty@catbert.net>",
   "summary": "muppet nfs client configuration",
   "license": "MIT",
