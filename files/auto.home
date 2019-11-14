@@ -1,1 +1,1 @@
-*	-soft,intr,vers=3	hooper.local:/volume1/homes/&
+*	-proto=tcp,soft,intr,vers=3	hooper.local:/volume1/homes/&
